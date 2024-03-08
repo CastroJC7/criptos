@@ -1,0 +1,125 @@
+{
+  "criptomonedas": [
+    {
+      "id": 1,
+      "nombre": "BITCOIN",
+      "descripcion": "Bitcoin es una criptomoneda que ha ganado prominencia como un activo digital seguro y escalable. Basada en una tecnología de cadena de bloques",
+      "fecha_creacion": "3 de enero de 2009",
+      "creador": "Satoshi Nakamoto",
+      "url_logo": "https://imagenes.iberoeconomia.es/wp-content/uploads/2020/11/16135401/Bitcoin-la-mejor-criptomoneda-737x415.jpg",
+      "caracteristicas": [
+        "Todas las transacciones se registran de forma permanente en la cadena de bloques.",
+        "Primera criptomoneda descentralizada",
+        "Limitado suministro de 21 millones de monedas"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "ETHEREUM",
+      "descripcion": "Es una criptomoneda y una plataforma descentralizada que fue lanzada en 2015 por el programador Vitalik Buterin.",
+      "fecha_creacion": "30 de julio de 2015",
+      "creador": "Vitalik Buterin",
+      "url_logo": "https://cryptocdn.fra1.cdn.digitaloceanspaces.com/sites/2/macro-shot-bit-coin-ethereum-crypto-currency_Easy-Resize.com_.jpg",
+      "caracteristicas": [
+        "Plataforma para contratos inteligentes",
+        "Utiliza la criptomoneda Ether (ETH)"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "RIPPLE (XRP)",
+      "descripcion": " Ripple es una criptomoneda y una plataforma de pagos que se centra en la eficiencia y la rapidez de las transacciones, utilizando su tecnología de contabilidad.",
+      "fecha_creacion": "2012",
+      "creador": "Chris Larsen y Jed McCaleb",
+      "url_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wApWcwuUFsZuOC2niybUO2d0o_WnkMuAr2MJkRPzRw&s",
+      "caracteristicas": [
+        "Diseñado para transacciones rápidas y baratas",
+        "Enfoque en integración con instituciones financieras"
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "LITECOIN",
+      "descripcion": "Litecoin es una criptomoneda que se basa en la tecnología blockchain, con tiempos de confirmación más rápidos",
+      "fecha_creacion": "7 de octubre de 2011",
+      "creador": "Charlie Lee",
+      "url_logo": "https://assets.iproup.com/assets/jpg/2021/07/21052.jpg",
+      "caracteristicas": [
+        "Basado en el protocolo Bitcoin",
+        "Produce bloques más rápidamente que Bitcoin"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "CARDANO (ADA)",
+      "descripcion": "Su criptomoneda nativa ADA, se utiliza para pagos y participación en la red.",
+      "fecha_creacion": "2017",
+      "creador": "Charles Hoskinson",
+      "url_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_MDD54BsQyvabG_hQmAta5rNANoRi9N5uA&usqp=CAU",
+      "caracteristicas": [
+        "Enfoque en seguridad y escalabilidad",
+        "Desarrollo basado en investigación académica"
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "POLKADOT (DOT)",
+      "descripcion": "Es una plataforma de blockchain Su criptomoneda nativa.",
+      "fecha_creacion": "26 de mayo de 2020",
+      "creador": "Dr. Gavin Wood",
+      "url_logo": "https://cimg.co/news/82285/208722/adobestock-akif-1-1.jpg",
+      "caracteristicas": [
+        "Plataforma de múltiples cadenas (multichain)",
+        "Interoperabilidad entre cadenas de bloques"
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "CHAINLINK (LINK)",
+      "descripcion": "Su criptomoneda nativa, LINK, se utiliza para pagar servicios de nodos de oráculo y participar en la gobernanza de la red.",
+      "fecha_creacion": "19 de septiembre de 2017",
+      "creador": "Sergey Nazarov",
+      "url_logo": "https://st4.depositphotos.com/14124396/27530/i/450/depositphotos_275303952-stock-photo-coin-cryptocurrency-link-against-the.jpg",
+      "caracteristicas": [
+        "Conecta contratos inteligentes con datos del mundo real",
+        "Utiliza oráculos descentralizados"
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "STELLAR (XLM)",
+      "descripcion": "Stellar es una plataforma de pagos y una criptomoneda que busca facilitar transacciones financieras internacionales de manera rápida.",
+      "fecha_creacion": "2014",
+      "creador": "Jed McCaleb",
+      "url_logo": "https://st4.depositphotos.com/13201226/24302/i/450/depositphotos_243022794-stock-photo-neon-glowing-stellar-lumens-xlm.jpg",
+      "caracteristicas": [
+        "Red de pagos rápidos y de bajo costo",
+        "Diseñada para facilitar transferencias internacionales"
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "MONERO (XMR)",
+      "descripcion": "Monero es una criptomoneda centrada en la privacidad que se distingue por ofrecer transacciones completamente privadas, anónimas.",
+      "fecha_creacion": "18 de abril de 2014",
+      "creador": "Desconocido (pseudónimo: thankful_for_today)",
+      "url_logo": "https://i0.wp.com/criptotendencia.com/wp-content/uploads/2019/10/review-monero.jpg?fit=1000%2C667&ssl=1",
+      "caracteristicas": [
+        "Enfocado en la privacidad y la anonimidad",
+        "Utiliza el algoritmo de prueba de trabajo CryptoNight"
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "UNISWAP (UNI)",
+      "descripcion": " Uniswap es un protocolo de intercambio descentralizado basado en Ethereum que permite a los usuarios intercambiar tokens de manera directa y sin intermediarios.",
+      "fecha_creacion": "2 de noviembre de 2018",
+      "creador": "Hayden Adams",
+      "url_logo": "https://www.criptonoticias.com/wp-content/uploads/2022/04/Uniswap-plataformas-750x375.png.webp",
+      "caracteristicas": [
+        "Protocolo de intercambio descentralizado (DEX)",
+        "Basado en contratos inteligentes en la red Ethereum"
+      ]
+    }
+  ]
+}
